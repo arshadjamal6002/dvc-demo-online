@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = storage
 ['remote "myremote"']
     url = ../%%temp/arshad-storage
+['remote "storage"']
+    url = C:\Users\arsha\AppData\Local\Temp\arshad-storage
